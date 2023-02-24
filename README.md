@@ -20,6 +20,14 @@
 
 - Necesitamos `node-fetch` para hacer la solicitud `http`, sin embargo la libreria `node-fetch` ya no utiliza `commonjs` (el require). Por esto lo cambiamos a que sea `module` para poder utilizar `require` e `import`
 
+### En el archivo `.env` reemplazar:
+
+`sk-**********************************************"`
+
+## Por la `API keys` de [OpenAI](https://platform.openai.com/account/api-keys) generada al hacer click en el boton:
+
+`+ Create new secrect key`
+
 ## En la terminal
 
 ### Iniciamos nuestro servidor:
