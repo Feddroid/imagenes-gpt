@@ -24,7 +24,7 @@
 
 `sk-**********************************************"`
 
-## Por la `API keys` de [OpenAI](https://platform.openai.com/account/api-keys) generada al hacer click en el boton:
+### Por la `API keys` de [OpenAI](https://platform.openai.com/account/api-keys) generada al hacer click en el boton:
 
 `+ Create new secrect key`
 
